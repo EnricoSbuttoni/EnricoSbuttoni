@@ -23,6 +23,7 @@ I am a Computer Engineering Graduate completing his master Degree in Artificial 
 ### Notable Projects
 https://github.com/CristianDegni01/Degni_Sbuttoni_Malis_Project  
 https://github.com/ProgrammazioneDiSistema2024-IA-ZZ/Group-36
+https://github.com/EnricoSbuttoni/SemProj
 
 <!--
 **EnricoSbuttoni/EnricoSbuttoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
