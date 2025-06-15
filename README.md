@@ -21,12 +21,12 @@ I am a Computer Engineering Graduate completing his master Degree in Artificial 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Notable Projects
-https://github.com/EnricoSbuttoni/EzElectronics  
-https://github.com/CristianDegni01/Degni_Sbuttoni_Malis_Project (pair)
-https://github.com/EnricoSbuttoni/EzBackup  
-https://github.com/EnricoSbuttoni/SemProj
-https://github.com/EnricoSbuttoni/Grover_Implementation
-https://github.com/miriam-16/algorithmic_machine_learning_challenges (team)
+https://github.com/EnricoSbuttoni/EzElectronics  \
+https://github.com/CristianDegni01/Degni_Sbuttoni_Malis_Project (pair) \
+https://github.com/EnricoSbuttoni/EzBackup  \
+https://github.com/EnricoSbuttoni/SemProj \
+https://github.com/EnricoSbuttoni/Grover_Implementation \
+https://github.com/miriam-16/algorithmic_machine_learning_challenges (team) \
 <!--
 **EnricoSbuttoni/EnricoSbuttoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
