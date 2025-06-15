@@ -1,8 +1,8 @@
 ## Hi, I am Enrico Sbuttoni 👋
 I am a Computer Engineering Graduate completing his master Degree in Artificial Intelligence and Data Analysys at Polito. I am currently a double degree student at Eurecom.
 
-- 🔭 I’m currently working on Image Encoding using DNA and JPEG2000.
-- 🌱 I’m currently learning Advance Statistics and Deep Learning.
+- 🔭 I’m currently working on Image Encoding using DNA and JPEG2000, Deep Learning model for Image Recognition.
+- 🌱 I’m currently learning Advance Statistics and Deep Learning and Golang.
 - 💬 Ask me about: Python, C, Rust, ML frameworks, Java, JavaScript, React, Computer Architecture, Quantum Computing.
 - 📫 How to reach me: enrico.sbuttoni@eurecom.fr  sbuttonienrico@gmail.com
 
